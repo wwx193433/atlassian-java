@@ -1,22 +1,12 @@
-# Confluence Java Client
+# Atlassian Java
+
 [![Build Status](https://travis-ci.org/crob1140/confluence-java-client.svg?branch=master)](https://travis-ci.org/crob1140/confluence-java-client)
 [![Test Coverage](https://codecov.io/gh/crob1140/confluence-java-client/branch/master/graph/badge.svg)](https://codecov.io/gh/crob1140/confluence-java-client)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.crob1140/confluence-java-client/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.crob1140/confluence-java-client)
 
 A simple Java client for the Confluence Cloud REST API
 
-## Installation
 
-To add this package to a Gradle project, add the following to your build.gradle:
-```groovy
-repositories {
-    mavenCentral()
-}
-
-dependencies {
-    compile group: 'com.github.crob1140', name: 'confluence-java-client', version: '1.0.0'
-}
-```
 
 ## Usage
 
