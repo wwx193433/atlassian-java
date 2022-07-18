@@ -6,18 +6,7 @@
 
 A simple Java client for the Confluence Cloud REST API
 
-## Installation
 
-To add this package to a Gradle project, add the following to your build.gradle:
-```groovy
-repositories {
-    mavenCentral()
-}
-
-dependencies {
-    compile group: 'com.github.crob1140', name: 'confluence-java-client', version: '1.0.0'
-}
-```
 
 ## Usage
 
