@@ -1,4 +1,5 @@
-# Confluence Java Client
+# Atlassian Java
+
 [![Build Status](https://travis-ci.org/crob1140/confluence-java-client.svg?branch=master)](https://travis-ci.org/crob1140/confluence-java-client)
 [![Test Coverage](https://codecov.io/gh/crob1140/confluence-java-client/branch/master/graph/badge.svg)](https://codecov.io/gh/crob1140/confluence-java-client)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.crob1140/confluence-java-client/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.crob1140/confluence-java-client)
