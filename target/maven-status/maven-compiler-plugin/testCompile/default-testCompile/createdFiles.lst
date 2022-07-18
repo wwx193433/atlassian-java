@@ -1,0 +1,12 @@
+com/github/confluence/content/expand/TestExpandedContentProperties.class
+com/github/confluence/TestConfluenceRequest.class
+com/github/confluence/TestConfluenceResponse.class
+com/github/confluence/requests/TestConfluenceRequestSuccess.class
+com/github/confluence/requests/TestGetContentRequestSuccess.class
+com/github/confluence/requests/QueryParamMapBuilder.class
+com/github/confluence/requests/TestCreateContentRequestSuccess.class
+com/github/confluence/TestConfluenceClient.class
+com/github/confluence/requests/TestCreateContentRequestValidation.class
+com/github/confluence/requests/TestUpdateContentRequestSuccess.class
+com/github/confluence/requests/TestGetContentRequestValidation.class
+com/github/confluence/auth/TestAuthMethod.class
